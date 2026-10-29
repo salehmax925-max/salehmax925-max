@@ -36,7 +36,7 @@ A virtual reality game project set in space.
 
 ## Training
 
-- **Jordan Design and Development Bureau (JODDB):** AI project training involving AI and robotics, beginning in March 2026.
+- **Jordan Design and Development Bureau (JODDB):** Began training on an AI project involving AI and robotics in March 2026.
 
 ## Areas I Work In
 
